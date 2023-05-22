@@ -1,0 +1,12 @@
+name: MobSurvival
+version: 1.0.0
+main: sk.ignissak.mobsurvival.Main
+author: iGniSsak
+libraries:
+  - "org.jetbrains.kotlin:kotlin-stdlib:1.7.20"
+depend:
+  - "CraftCore"
+load: POSTWORLD
+api-version: 1.19
+commands:
+  forcestart:
